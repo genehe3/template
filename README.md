@@ -5,5 +5,7 @@ A blank css (styling for the page, such as font-size or background-color for dif
 
 and a blank javascript file (used for functionality of website, such as added buttons) linked to main HTML file.
 
+
+
 I decided to create a template as all of my projects started with these 3 files.
 Every second saved is more time for developing the code.
